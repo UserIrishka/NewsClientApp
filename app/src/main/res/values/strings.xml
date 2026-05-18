@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NewsClientApp</string>
+    <string name="published_date">Дата публикации: %1$s</string>
+</resources>
